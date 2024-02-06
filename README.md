@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melvinthuo
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Big data and Machine Learning
+- 🌱 I’m currently learning Single Web Applications (SPA)
 - 💞️ I’m looking to collaborate on Data analysis
 - 📫 How to reach me thuomelvin@gmail.com
 
